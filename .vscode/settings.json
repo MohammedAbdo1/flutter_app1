@@ -1,0 +1,8 @@
+{
+    "emulator.simulatorPath": "C:\\\\Users\\\\Mohamed\\\\AppData\\\\Local\\\\Android\\\\Sdk\\\\emulator",
+    "emulator.hasEditorTitleIcon": true,
+    "emulator.emulatorPathWindows": "C:\\\\Users\\\\Mohamed\\\\AppData\\\\Local\\\\Android\\\\Sdk\\\\emulator",
+    "emulator.emulatorPath": "C:\\\\Users\\\\Mohamed\\\\AppData\\\\Local\\\\Android\\\\Sdk\\\\emulator",
+    "emulator.androidColdBoot": true,
+    "cmake.sourceDirectory": "D:/app laptop/flutter_application_1/linux/flutter"
+}
